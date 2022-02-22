@@ -1,0 +1,7 @@
+name: DICOM_Env
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.11=h6244533_0
